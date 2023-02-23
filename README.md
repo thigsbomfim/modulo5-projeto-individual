@@ -63,7 +63,7 @@ const lista = [];
 ````
 
 
-## Como executar o código no Node
+## Como executar o código 
 
 `1.` No terminal, execute o comando `node index.js` para iniciar o programa.
 
